@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomAppointmentEditForm.cs](./CS/CustomAppointmentEditForm.cs) (VB: [CustomAppointmentEditForm.vb](./VB/CustomAppointmentEditForm.vb))
+* [dsCalendarEvents.cs](./CS/dsCalendarEvents.cs) (VB: [dsCalendarEvents.vb](./VB/dsCalendarEvents.vb))
+* [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
+* [Program.cs](./CS/Program.cs) (VB: [Program.vb](./VB/Program.vb))
+<!-- default file list end -->
 # How to extend text properties of appointments exported to iCalendar format
 
 
